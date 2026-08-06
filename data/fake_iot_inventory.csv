@@ -1,0 +1,21 @@
+Manufacturer,Model,Firmware Version,Agency,Criticality
+Cisco,IR1101,17.9.2,DOT,High
+Cisco,MS250-48FP,17.10,DOE,Critical
+Cisco,MR56,30.6,NYPD,High
+Cisco,MX100,18.1,FDNY,Critical
+Hikvision,DS-2CD2143G0-I,5.7.18,DOHMH,High
+Hikvision,DS-2CD2387G2,5.6.5,DEP,Medium
+Ubiquiti,UAP-AC-PRO,6.5.62,DPR,Medium
+Ubiquiti,USW-24-POE,7.0.23,DCAS,High
+Axis,P3245-LVE,11.8.32,DOC,High
+Axis,Q6315-LE,10.12.1,DOB,Medium
+Bosch,FLEXIDOME IP 5000,7.82,DHS,Low
+Bosch,AUTODOME IP Starlight,7.80,DSNY,Medium
+Siemens,S7-1200,4.5.1,DOT,Critical
+Schneider Electric,Modicon M340,3.20,DEP,High
+Honeywell,CK65,A.10.15,DOITT,Medium
+Dell,Edge Gateway 5200,3.1.7,OEM,Low
+Cisco,TBD,TBD,NYCHA,High
+Hikvision,TBD,TBD,ACS,Medium
+Fortinet,FortiGate 60F,7.2.4,HRA,Critical
+Aruba,AP-515,10.5.1,DCA,Medium
