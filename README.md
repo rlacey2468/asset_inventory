@@ -2,7 +2,7 @@
 
 ## Overview
 
-The NYC OTI IoT Asset Inventory is a Streamlit-based application designed to provide a centralized view of Internet of Things (IoT) assets and support the investigation of potential security vulnerabilities.
+The project is a mock IoT Asset Inventory which is a Streamlit-based application designed to provide a centralized view of Internet of Things (IoT) assets and support the investigation of potential security vulnerabilities.
 
 The application combines inventory management with on-demand vulnerability analysis. Asset information is maintained in a local SQLite database, while Common Platform Enumeration (CPE) and Common Vulnerabilities and Exposures (CVE) information can be retrieved dynamically from the National Vulnerability Database (NVD).
 
